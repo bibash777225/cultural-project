@@ -1,7 +1,8 @@
 import { BrowserRouter,Routes,Route } from "react-router-dom"
-import Home from "./Components/Home"
+import Home from "./Pages/Home"
 import BhaktapurDurbar from "./Pages/BhaktapurDubar"
 import Lumbini from "./Pages/Lumbini"
+import Login from "./Pages/Logi"
 
 function App() {
   return(
@@ -11,6 +12,8 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/BhaktapurDurbar" element={<BhaktapurDurbar />}/>
         <Route path="/Lumbini" element={<Lumbini />}/>
+        <Route path="/Login" element={<Login />}/>
+
         
         </Routes>
 
