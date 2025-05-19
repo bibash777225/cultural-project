@@ -4,7 +4,7 @@ function Lumbini(){
     return(
         <>
         <Navbar/>
-        <h1> this is lumbini page</h1>
+        {/* <h1> this is lumbini page</h1> */}
         </>
     )
 }
