@@ -24,7 +24,6 @@ function Home(){
        {/* this is mustang */}
       <a href="#_"> <img src="https://i.pinimg.com/736x/a3/7f/e5/a37fe56420d2aa5343c30e038dfa436b.jpg" className="rounded-xl  rotate-6 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" alt="#_" /> </a><a href="#_"> <img src="https://i.pinimg.com/736x/6a/8a/12/6a8a12101ac39eedb98e99f0bcd2ca4e.jpg" className="rounded-xl  -rotate-12 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" alt="#_" /> </a>
 
-
               </div>
         </div>   
 </section>
@@ -62,6 +61,21 @@ function Home(){
 
 
 
+{/* Footer */}
+<footer className="bg-gray-800 text-white py-4 px-3 mt-16">
+  <div className="container mx-auto flex flex-wrap items-center justify-between">
+    <div className="w-full md:w-1/2 md:text-center md:mb-0 mb-8">
+      <p className="text-xs text-gray-400 md:text-sm">Copyright 2020 © All Rights Reserved | Made By Bibash, Sashank, Prajjwol</p>
+    </div>
+    <div className="w-full md:w-1/2 md:text-center md:mb-0 mb-8">
+      <ul className="list-reset flex justify-center flex-wrap text-xs md:text-sm gap-3">
+        <li><a href="#" className="text-gray-400 hover:text-white">Contact</a></li>
+        <li className="mx-4"><a href="#" className="text-gray-400 hover:text-white">Privacy Policy</a></li>
+        <li><a href="#" className="text-gray-400 hover:text-white">Terms of Use</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
 
 
 
