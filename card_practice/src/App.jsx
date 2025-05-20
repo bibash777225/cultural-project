@@ -3,6 +3,7 @@ import Home from "./Pages/Home"
 import BhaktapurDurbar from "./Pages/BhaktapurDubar"
 import Lumbini from "./Pages/Lumbini"
 import Login from "./Pages/Logi"
+import BookA from "./Components/BookA"
 
 function App() {
   return(
@@ -13,6 +14,7 @@ function App() {
         <Route path="/BhaktapurDurbar" element={<BhaktapurDurbar />}/>
         <Route path="/Lumbini" element={<Lumbini />}/>
         <Route path="/Login" element={<Login />}/>
+         <Route path="/BookA" element={<BookA />}/>
 
         
         </Routes>
