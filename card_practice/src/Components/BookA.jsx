@@ -17,7 +17,7 @@ function BookA(){
   </video>
 
   {/* Dark Overlay (optional, improves readability) */}
-  <div className="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 z-10"></div>
+  <div className="absolute top-0 left-0 w-full h-full bg-white bg-opacity-50 z-10"></div>
 
   {/* up to here */}
 
