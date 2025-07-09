@@ -5,6 +5,7 @@ import Lumbini from "./Pages/Lumbini"
 import Login from "./Pages/Logi"
 import BookA from "./Components/BookA"
 import SignUp from "./Pages/SignUp"
+import Info from "./Pages/Info"
 
 function App() {
   return(
@@ -14,6 +15,10 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/BhaktapurDurbar" element={<BhaktapurDurbar />}/>
         <Route path="/Lumbini" element={<Lumbini />}/>
+        <Route path="/Login" element={<Login />} />
+        <Route path="/BookA" element={<BookA />} />
+        <Route path="/SignUP" element={<SignUp />} />
+        <Route path ="/Info" element={<Info/>} />
         </Routes>
 
        </BrowserRouter>

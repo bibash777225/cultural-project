@@ -1,10 +1,7 @@
-
-import Navbar from "../Components/Navbar"
-
-function BhaktapurDurbar(){
+function Info(){
     return(
-        <> 
-        <Navbar></Navbar>
+
+<> 
 
 <div className="bg-gray-100">
   <div className="container mx-auto px-4 py-8">
@@ -92,9 +89,12 @@ function BhaktapurDurbar(){
 </div>
 
 
-        
-                </>
-    )
-}
 
-export default BhaktapurDurbar;
+</>
+
+    )
+
+    
+
+}
+export default Info
