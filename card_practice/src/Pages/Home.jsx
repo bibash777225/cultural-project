@@ -77,21 +77,21 @@ function Home() {
                 alt="#_"
               />
             </Link>
-            <a href="#_">
+            <Link to="/Mukthinath">
               <img
                 src="https://i.pinimg.com/736x/a3/7f/e5/a37fe56420d2aa5343c30e038dfa436b.jpg"
                 className="rounded-xl rotate-6 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom"
                 alt="#_"
               />
-            </a>
-            <a href="#_">
+            </Link>
+            <Link to="/HinduTemple">
               <img
                 src="https://i.pinimg.com/736x/6a/8a/12/6a8a12101ac39eedb98e99f0bcd2ca4e.jpg"
                 className="rounded-xl -rotate-12 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom"
                 alt="#_"
               />
              
-            </a>
+            </Link>
           </div>
         </div>
       </section>
