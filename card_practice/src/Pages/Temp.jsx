@@ -1,6 +1,6 @@
 import Navbar from "../Components/Navbar"
 
-function Pashupatinath(){
+function Temp(){
 
 
     return(
@@ -13,4 +13,4 @@ function Pashupatinath(){
     )
 
 }
-export default Pashupatinath
+export default Temp;

@@ -1,12 +1,12 @@
 import Navbar from "../Components/Navbar";
 
-function Mukthinath (){
+function Muk (){
 return(
     <>
     <Navbar></Navbar>
     
-    
+    <h1> this is mukthinath</h1>
     </>
 )
 }
-export default Mukthinath
+export default Muk;

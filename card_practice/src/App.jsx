@@ -6,8 +6,8 @@ import Login from "./Pages/Logi"
 import BookA from "./Components/BookA"
 import SignUp from "./Pages/SignUp"
 import Info from "./Pages/Info"
-import HinduTemple from "./Pages/Pashupatinath"
-import Mukthinath from "./Pages/Mukthinath"
+import Temp from "./Pages/Temp"
+import Muk from "./Pages/Muk"
 
 function App() {
   return(
@@ -21,8 +21,9 @@ function App() {
         <Route path="/BookA" element={<BookA />} />
         <Route path="/SignUP" element={<SignUp />} />
         <Route path ="/Info" element={<Info/>} />
-        <Route path="/Pashupatinath" element={<Pashupatinath/>} />
-        <Route path="/Mukthinath" element={<Mukthinath/>} />
+        <Route path="/Temp" element={<Temp/>} />
+        <Route path="/Muk" element={<Muk/>} />
+        
         </Routes>
 
        </BrowserRouter>
