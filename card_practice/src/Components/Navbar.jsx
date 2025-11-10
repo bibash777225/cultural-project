@@ -10,7 +10,7 @@ function Navbar(){
     <div className="flex items-center justify-between">
       <div className="flex shrink-0">
         <a aria-current="page" className="flex items-center" href="/">
-          <img className="h-7 w-auto" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt />
+          <img className="h-7 w-auto" src="https://i.pinimg.com/736x/ff/42/6e/ff426e5ed9eb29bd460a1ab1156004d4.jpg" alt />
           <p className="sr-only">Website Title</p>
         </a>
       </div>
