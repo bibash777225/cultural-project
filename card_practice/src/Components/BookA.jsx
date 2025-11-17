@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom"
+
 function BookA(){
     return(
         <>
@@ -93,7 +95,7 @@ function BookA(){
       </div>
       <div>
         <button className="hover:shadow-form w-full rounded-md bg-[#6A64F1] py-3 px-8 text-center text-base font-semibold text-white outline-none">
-          Book Ticket
+         <Link to ="/Guide"> Book GUIDE</Link> 
         </button>
       </div>
     </form>

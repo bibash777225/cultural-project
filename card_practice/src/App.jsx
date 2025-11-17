@@ -8,6 +8,7 @@ import SignUp from "./Pages/SignUp"
 import Info from "./Pages/Info"
 import Temp from "./Pages/Temp"
 import Muk from "./Pages/Muk"
+import Guide from "./Pages/Guide"
 
 function App() {
   return(
@@ -23,7 +24,7 @@ function App() {
         <Route path ="/Info" element={<Info/>} />
         <Route path="/Temp" element={<Temp/>} />
         <Route path="/Muk" element={<Muk/>} />
-        
+        <Route path="/Guide" element={<Guide/>} />
         </Routes>
 
        </BrowserRouter>

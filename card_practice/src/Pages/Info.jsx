@@ -5,15 +5,15 @@ function Info(){
 
 <div className="bg-gray-100">
   <div className="container mx-auto px-4 py-8">
-    <h1 className="text-4xl font-bold text-center mb-8">Bento Grid Layout with Images</h1>
+    <h1 className="text-4xl font-bold text-center mb-8"> Cultural Places</h1>
     <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
       {/* Large item */}
       <div className="md:col-span-2 md:row-span-2 relative overflow-hidden rounded-2xl shadow-lg group">
-        <img src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHxuYXR1cmV8ZW58MHwwfHx8MTcyMTA0MjYwMXww&ixlib=rb-4.0.3&q=80&w=1080" alt="Nature" className="w-full h-full object-cover" />
+        <img src="https://i.pinimg.com/1200x/aa/89/64/aa89646ecdf6f835c6948c935a48838c.jpg" alt="Nature" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
           <div className="absolute bottom-0 left-0 right-0 p-4">
-            <h3 className="text-2xl font-bold text-white">Explore Nature</h3>
-            <p className="text-white">Discover the beauty of the natural world</p>
+            <h3 className="text-2xl font-bold text-white">Explore Pathivara</h3>
+            <p className="text-white">Discover the beauty of the natural Places</p>
           </div>
         </div>
       </div>
