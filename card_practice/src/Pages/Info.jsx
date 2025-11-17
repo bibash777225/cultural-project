@@ -19,10 +19,10 @@ function Info(){
       </div>
       {/* Two small items */}
       <div className="relative overflow-hidden rounded-2xl shadow-lg group">
-        <img src="https://images.unsplash.com/photo-1493770348161-369560ae357d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw2fHxmb29kfGVufDB8MHx8fDE3MjEwNDI2MTR8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Food" className="w-full h-48 object-cover" />
+        <img src="https://i.pinimg.com/1200x/a4/ce/7c/a4ce7ce40d29c85c855f57d21bfb6ca4.jpg" alt="Food" className="w-full h-48 object-cover" />
         <div className="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
           <div className="absolute bottom-0 left-0 right-0 p-4">
-            <h4 className="text-xl font-bold text-white">Culinary Delights</h4>
+            <h4 className="text-xl font-bold text-white">Boudhanath Stupa</h4>
           </div>
         </div>
       </div>
