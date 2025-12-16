@@ -9,17 +9,17 @@ const slides = [
   {
     id: 1,
     title: "Slide 1",
-    image: "https://i.pinimg.com/736x/0e/bb/8c/v.jpgv",
+    image: "https://i.pinimg.com/736x/3f/11/30/3f11304b704850cb6ad8e27e6a3a56cb.jpg",
   },
   {
     id: 2,
     title: "Slide 2",
-    image: "https://i.pinimg.com/736x/ce/b6/df/ceb6dfb11d1f7c37c629c075f40ed869.jpg",
+    image: "https://i.pinimg.com/736x/6f/87/b0/6f87b0d796bf8c69a217811e63be70bf.jpg",
   },
   {
     id: 3,
     title: "Slide 3",
-    image: "https://picsum.photos/id/1016/1200/400",
+    image: "https://i.pinimg.com/1200x/e9/ca/6c/e9ca6c9acb08a4fff277ddc013aa86a0.jpg",
   },
 ];
 
@@ -57,10 +57,21 @@ function Home() {
       </div>
 
       {/* This is card section */}
-      <section className="bg-zinc-50 overflow-hidden pt-25">
-        <p className="text-center font-bold text-2xl mb-8">
-         <b>Our Main Destination</b> 
-        </p>
+<section className="bg-zinc-50 overflow-hidden py-24">
+  <p
+    className="text-center font-extrabold text-5xl mb-12 text-gray-900"
+    style={{
+      textShadow: '0 0 10px #32CD32, 0 0 20px #32CD32, 0 0 30px #32CD32',
+    }}
+  >
+    Our Main Destination
+  </p>
+
+
+
+
+
+
         <div className="max-w-screen-lg 2xl:max-w-screen-3xl px-8 md:px-12 mx-auto py-12 lg:py-24 space-y-24 h-svh flex flex-col justify-center">
           <div className="flex flex-col sm:flex-row mx-auto gap-6">
             <Link to="/BhaktapurDurbar">
