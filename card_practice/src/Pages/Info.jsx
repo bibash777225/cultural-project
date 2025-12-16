@@ -27,60 +27,60 @@ function Info(){
         </div>
       </div>
       <div className="relative overflow-hidden rounded-2xl shadow-lg group">
-        <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHx0ZWNobm9sb2d5fGVufDB8MHx8fDE3MjEwNDI2Mjh8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Technology" className="w-full h-48 object-cover" />
+        <img src="https://i.pinimg.com/736x/65/c9/a3/65c9a3120702bba91b0e8484d81e22a9.jpg" alt="Technology" className="w-full h-48 object-cover" />
         <div className="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
           <div className="absolute bottom-0 left-0 right-0 p-4">
-            <h4 className="text-xl font-bold text-white">Tech Innovations</h4>
+            <h4 className="text-xl font-bold text-white">Indreshwor Temple</h4>
           </div>
         </div>
       </div>
       {/* Three medium items */}
       <div className="relative overflow-hidden rounded-2xl shadow-lg group">
-        <img src="https://images.unsplash.com/photo-1503220317375-aaad61436b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHx0cmF2ZWx8ZW58MHwwfHx8MTcyMTA0MjY0MXww&ixlib=rb-4.0.3&q=80&w=1080" alt="Travel" className="w-full h-48 object-cover" />
+        <img src="https://i.pinimg.com/1200x/8d/a6/fc/8da6fcf389fcc1b760f1a1fab4be55e2.jpg" alt="Travel" className="w-full h-48 object-cover" />
         <div className="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
           <div className="absolute bottom-0 left-0 right-0 p-4">
-            <h4 className="text-xl font-bold text-white">Travel Adventures</h4>
+            <h4 className="text-xl font-bold text-white">Krishna Temple</h4>
           </div>
         </div>
       </div>
       <div className="relative overflow-hidden rounded-2xl shadow-lg group">
-        <img src="https://images.unsplash.com/photo-1513364776144-60967b0f800f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHxhcnR8ZW58MHwwfHx8MTcyMTA0MjY5Nnww&ixlib=rb-4.0.3&q=80&w=1080" alt="Art" className="w-full h-48 object-cover" />
+        <img src="https://i.pinimg.com/1200x/81/f0/e9/81f0e90104a55266db74e6a6466c73d7.jpg" alt="Art" className="w-full h-48 object-cover" />
         <div className="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
           <div className="absolute bottom-0 left-0 right-0 p-4">
-            <h4 className="text-xl font-bold text-white">Artistic Expressions</h4>
+            <h4 className="text-xl font-bold text-white">Chandragiri Hills</h4>
           </div>
         </div>
       </div>
       {/* bottom cards */}
       <div className="relative overflow-hidden rounded-2xl shadow-lg group">
-        <img src="https://images.unsplash.com/photo-1530549387789-4c1017266635?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyfHxzd2ltbWluZ3xlbnwwfDB8fHwxNzIxMDQzMjkxfDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Sport" className="w-full h-48 object-cover" />
+        <img src="https://i.pinimg.com/736x/a0/cc/3c/a0cc3cea9e84cef5fda7d0318ac29fd2.jpg" alt="Sport" className="w-full h-48 object-cover" />
         <div className="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
           <div className="absolute bottom-0 left-0 right-0 p-4">
-            <h4 className="text-xl font-bold text-white">Swimming</h4>
+            <h4 className="text-xl font-bold text-white">KAAL BHAIRAV</h4>
           </div>
         </div>
       </div>
       <div className="relative overflow-hidden rounded-2xl shadow-lg group">
-        <img src="https://images.unsplash.com/photo-1611195974226-a6a9be9dd763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxMnx8Y2hlc3N8ZW58MHwwfHx8MTcyMTA0MzI0Nnww&ixlib=rb-4.0.3&q=80&w=1080" alt="Sport" className="w-full h-48 object-cover" />
+        <img src="https://i.pinimg.com/1200x/12/f3/35/12f33505d4dc44f5168e9c22d8773178.jpg" alt="Sport" className="w-full h-48 object-cover" />
         <div className="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
           <div className="absolute bottom-0 left-0 right-0 p-4">
-            <h4 className="text-xl font-bold text-white">Chess</h4>
+            <h4 className="text-xl font-bold text-white">RARA LAKE</h4>
           </div>
         </div>
       </div>
       <div className="relative overflow-hidden rounded-2xl shadow-lg group">
-        <img src="https://images.unsplash.com/photo-1553778263-73a83bab9b0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHxmb290YmFsbHxlbnwwfDB8fHwxNzIxMDQzMjExfDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Sport" className="w-full h-48 object-cover" />
+        <img src="https://i.pinimg.com/736x/13/3d/54/133d5423694d79d00e81e5f23931680c.jpg" alt="Sport" className="w-full h-48 object-cover" />
         <div className="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
           <div className="absolute bottom-0 left-0 right-0 p-4">
-            <h4 className="text-xl font-bold text-white">Football</h4>
+            <h4 className="text-xl font-bold text-white"> Gosaikunda LAKE</h4>
           </div>
         </div>
       </div>
       <div className="relative overflow-hidden rounded-2xl shadow-lg group">
-        <img src="https://images.unsplash.com/photo-1624526267942-ab0ff8a3e972?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw3fHxjcmlja2V0fGVufDB8MHx8fDE3MjEwNDMxNTh8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Sport" className="w-full h-48 object-cover" />
+        <img src="https://i.pinimg.com/736x/85/a9/3c/85a93c619639fd9601dfbb2ac128c6ff.jpg" alt="Sport" className="w-full h-48 object-cover" />
         <div className="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
           <div className="absolute bottom-0 left-0 right-0 p-4">
-            <h4 className="text-xl font-bold text-white">Cricket</h4>
+            <h4 className="text-xl font-bold text-white">Sagarmatha base camp</h4>
           </div>
         </div>
       </div>
