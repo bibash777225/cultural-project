@@ -33,7 +33,7 @@ function Footer(){
       
   <div className="container mx-auto flex flex-wrap items-center justify-between">
     <div className="w-full md:w-1/2 md:text-center md:mb-0 mb-8">
-      <p className="text-xs text-gray-400 md:text-sm">Copyright 2020 © All Rights Reserved | Made By Bibash, Sashank, Rekha,Sneha</p>
+      <p className="text-xs text-gray-400 md:text-sm">Copyright 2020 © All Rights Reserved | Made By Bibash, Sashank, Rekha</p>
     </div>
     <div className="w-full md:w-1/2 md:text-center md:mb-0 mb-8">
       <ul className="list-reset flex justify-center flex-wrap text-xs md:text-sm gap-3">

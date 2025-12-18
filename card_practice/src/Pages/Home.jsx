@@ -61,11 +61,13 @@ function Home() {
   <p
     className="text-center font-extrabold text-5xl mb-12 text-gray-900"
     style={{
-      textShadow: '0 0 10px #32CD32, 0 0 20px #32CD32, 0 0 30px #32CD32',
+      textShadow: '0 0 10px #888888, 0 0 20px #aaaaaa, 0 0 30px #cccccc',
     }}
   >
     Our Main Destination
   </p>
+
+
 
 
 
